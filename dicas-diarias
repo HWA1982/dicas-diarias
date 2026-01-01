@@ -1,0 +1,1804 @@
+{
+    "exclusive_tips": [
+        {
+            "id": 1,
+            "title": "Pressão dos Pneus",
+            "text": "Dica exclusiva: Verifique a pressão sempre com os pneus frios para garantir a precisão e sua segurança nas curvas.",
+            "category": "Manutenção"
+        },
+        {
+            "id": 2,
+            "title": "Olhar na Curva",
+            "text": "Dica exclusiva: Sua moto vai para onde você olha. Mantenha o foco na saída da curva e não no obstáculo.",
+            "category": "Pilotagem"
+        },
+        {
+            "id": 3,
+            "title": "Lubrificação da Corrente",
+            "text": "Dica exclusiva: O melhor momento para lubrificar a corrente é após rodar, com ela ainda quente. Isso ajuda o lubrificante a penetrar nos elos.",
+            "category": "Manutenção"
+        },
+        {
+            "id": 4,
+            "title": "Frenagem de Emergência",
+            "text": "Dica exclusiva: Em frenagens bruscas, aperte o tanque com os joelhos para aliviar o peso nos braços e manter a estabilidade frontal.",
+            "category": "Segurança"
+        },
+        {
+            "id": 5,
+            "title": "Posição dos Pés",
+            "text": "Dica exclusiva: Pilote com as pontas dos pés nas pedaleiras. Isso evita que seus pés fiquem presos ou batam no asfalto em inclinações.",
+            "category": "Pilotagem"
+        },
+        {
+            "id": 6,
+            "title": "Visibilidade na Chuva",
+            "text": "Dica exclusiva: Aplique um pouco de cera automotiva na parte externa da viseira para que as gotas de água escorram rapidamente com o vento.",
+            "category": "Equipamento"
+        },
+        {
+            "id": 7,
+            "title": "Ponto Cego de Caminhões",
+            "text": "Dica exclusiva: Se você não consegue ver os retrovisores do motorista do caminhão, ele certamente não está vendo você. Saia do ponto cego rapidamente.",
+            "category": "Segurança"
+        },
+        {
+            "id": 8,
+            "title": "Ajuste de Manetes",
+            "text": "Dica exclusiva: Ajuste a altura dos manetes de freio e embreagem para que fiquem em linha reta com seus braços, evitando fadiga nos pulsos.",
+            "category": "Ergonomia"
+        },
+        {
+            "id": 9,
+            "title": "Troca de Marchas",
+            "text": "Dica exclusiva: Tente fazer trocas de marcha de forma suave, sem soltar a embreagem de uma vez, para evitar o travamento da roda traseira em reduções.",
+            "category": "Pilotagem"
+        },
+        {
+            "id": 10,
+            "title": "Limpeza do Capacete",
+            "text": "Dica exclusiva: Nunca use produtos químicos agressivos na viseira. Água morna e sabão neutro preservam a camada anti-risco.",
+            "category": "Equipamento"
+        },
+        {
+            "id": 11,
+            "title": "Contra-esterço",
+            "text": "Dica exclusiva: Para inclinar a moto rápido, empurre o guidão para o lado que quer virar (empurre o lado esquerdo para ir para a esquerda).",
+            "category": "Pilotagem"
+        },
+        {
+            "id": 12,
+            "title": "Nível de Óleo",
+            "text": "Dica exclusiva: Sempre cheque o nível do óleo com a moto em pé (vertical) e não apoiada no descanso lateral (peito de moça).",
+            "category": "Manutenção"
+        },
+        {
+            "id": 13,
+            "title": "Pilotagem com Garupa",
+            "text": "Dica exclusiva: Oriente o passageiro a acompanhar o movimento do seu corpo nas curvas e nunca tentar 'compensar' a inclinação.",
+            "category": "Pilotagem"
+        },
+        {
+            "id": 14,
+            "title": "Frenagem com Motor",
+            "text": "Dica exclusiva: Use o freio motor em descidas longas para evitar o superaquecimento dos discos de freio (fading).",
+            "category": "Segurança"
+        },
+        {
+            "id": 15,
+            "title": "Cruzar Trilhos",
+            "text": "Dica exclusiva: Ao cruzar trilhos de trem ou fendas no asfalto, tente fazê-lo o mais próximo possível de um ângulo de 90 graus.",
+            "category": "Segurança"
+        },
+        {
+            "id": 16,
+            "title": "Armazenamento da Bateria",
+            "text": "Dica exclusiva: Se for deixar a moto parada por mais de 15 dias, desconecte o polo negativo da bateria para evitar a descarga total.",
+            "category": "Manutenção"
+        },
+        {
+            "id": 17,
+            "title": "Uso do Freio Traseiro",
+            "text": "Dica exclusiva: O freio traseiro é excelente para estabilizar a moto em baixas velocidades e manobras apertadas no trânsito.",
+            "category": "Pilotagem"
+        },
+        {
+            "id": 18,
+            "title": "Cuidado com Faixas Brancas",
+            "text": "Dica exclusiva: Evite frear ou acelerar forte sobre as faixas pintadas no asfalto, especialmente se estiverem úmidas, pois são extremamente escorregadias.",
+            "category": "Segurança"
+        },
+        {
+            "id": 19,
+            "title": "Hidratação em Viagens",
+            "text": "Dica exclusiva: A desidratação diminui seus reflexos. Beba água mesmo sem sentir sede em viagens longas, especialmente no calor.",
+            "category": "Saúde"
+        },
+        {
+            "id": 20,
+            "title": "Inspeção de Parafusos",
+            "text": "Dica exclusiva: Motos monocilíndricas vibram muito. Verifique periodicamente o aperto dos principais parafusos para evitar perdas no caminho.",
+            "category": "Manutenção"
+        },
+        {
+            "id": 21,
+            "title": "Aceleração na Saída",
+            "text": "Dica exclusiva: Só retome a aceleração forte quando a moto já estiver apontada para a saída da curva, evitando desgastes inúteis no pneu.",
+            "category": "Pilotagem"
+        },
+        {
+            "id": 22,
+            "title": "Vento Lateral",
+            "text": "Dica exclusiva: Em pontes com ventos laterais fortes, abra um pouco o joelho do lado de onde vem o vento para ajudar a estabilizar a moto.",
+            "category": "Segurança"
+        },
+        {
+            "id": 23,
+            "title": "Troca de Fluido de Freio",
+            "text": "Dica exclusiva: O fluido de freio absorve umidade. Troque-o a cada 2 anos, mesmo que a quilometragem seja baixa, para evitar falhas por ebulição.",
+            "category": "Manutenção"
+        },
+        {
+            "id": 24,
+            "title": "Ajuste de Corrente",
+            "text": "Dica exclusiva: Nunca deixe a corrente esticada demais. Verifique a folga (geralmente 2 a 3 cm) com o peso do piloto sobre a moto.",
+            "category": "Manutenção"
+        },
+        {
+            "id": 25,
+            "title": "Postura do Pescoço",
+            "text": "Dica exclusiva: Em viagens longas, evite tensionar os ombros. Isso reduz a fadiga no pescoço e evita dores de cabeça causadas pela tensão.",
+            "category": "Ergonomia"
+        },
+        {
+            "id": 26,
+            "title": "Uso da Embreagem",
+            "text": "Dica exclusiva: Use apenas dois dedos na embreagem (indicador e médio). Isso permite manter o controle do guidão com o restante da mão.",
+            "category": "Pilotagem"
+        },
+        {
+            "id": 27,
+            "title": "Aquecimento do Motor",
+            "text": "Dica exclusiva: Não acelere forte com o motor frio. Espere o óleo circular por pelo menos 30 segundos antes de iniciar o movimento.",
+            "category": "Manutenção"
+        },
+        {
+            "id": 28,
+            "title": "Viseira Noturna",
+            "text": "Dica exclusiva: Nunca use viseiras fumê ou espelhadas à noite. A perda de percepção de profundidade aumenta drasticamente o risco de acidentes.",
+            "category": "Equipamento"
+        },
+        {
+            "id": 29,
+            "title": "Frenagem em Curva",
+            "text": "Dica exclusiva: Se precisar frear no meio de uma curva, use o freio traseiro suavemente para 'trazer' a moto para dentro sem que ela levante.",
+            "category": "Pilotagem"
+        },
+        {
+            "id": 30,
+            "title": "Manoplas Desgastadas",
+            "text": "Dica exclusiva: Manoplas gastas ou endurecidas aumentam a vibração nas mãos. Troque-as para melhorar o conforto e a sensibilidade do acelerador.",
+            "category": "Ergonomia"
+        },
+        {
+            "id": 31,
+            "title": "Pneus Novos",
+            "text": "Dica exclusiva: Pneus novos vêm com uma camada protetora escorregadia. Pilote com cautela extra nos primeiros 100km até que ela saia.",
+            "category": "Segurança"
+        },
+        {
+            "id": 32,
+            "title": "Lâmpadas de LED",
+            "text": "Dica exclusiva: Ao trocar para LED, certifique-se de que o foco está regulado. Luz espalhada demais cega outros motoristas e ilumina menos o chão.",
+            "category": "Equipamento"
+        },
+        {
+            "id": 33,
+            "title": "Descanso do Pé",
+            "text": "Dica exclusiva: Evite deixar o pé 'descansando' sobre o pedal de freio traseiro. Isso pode superaquecer o sistema e acender a luz de freio sem querer.",
+            "category": "Pilotagem"
+        },
+        {
+            "id": 34,
+            "title": "Filtro de Ar",
+            "text": "Dica exclusiva: Se você roda muito em estradas de terra, verifique o filtro de ar com o dobro de frequência para evitar perda de potência.",
+            "category": "Manutenção"
+        },
+        {
+            "id": 35,
+            "title": "Ultrapassagem de Carretas",
+            "text": "Dica exclusiva: Ao ultrapassar veículos grandes, cuidado com o 'vácuo' que pode puxar a moto para perto do veículo ao finalizar a manobra.",
+            "category": "Segurança"
+        },
+        {
+            "id": 36,
+            "title": "Jaqueta Ideal",
+            "text": "Dica exclusiva: Uma jaqueta de pilotagem deve ficar justa ao corpo para que as proteções de cotovelo e ombro não saiam do lugar em uma queda.",
+            "category": "Equipamento"
+        },
+        {
+            "id": 37,
+            "title": "Estacionar em Ladeiras",
+            "text": "Dica exclusiva: Ao estacionar em subidas ou descidas, deixe sempre a moto engatada em primeira marcha para evitar que o descanso lateral falhe.",
+            "category": "Segurança"
+        },
+        {
+            "id": 38,
+            "title": "Limpeza de Corrente",
+            "text": "Dica exclusiva: Nunca use querosene puro para limpar correntes com O-rings; use produtos específicos ou sabão neutro para não ressecar os anéis.",
+            "category": "Manutenção"
+        },
+        {
+            "id": 39,
+            "title": "Atenção a Cruzamentos",
+            "text": "Dica exclusiva: Mesmo com o sinal verde, reduza levemente e olhe para os dois lados em cruzamentos. Muitos acidentes ocorrem por avanços de sinal.",
+            "category": "Segurança"
+        },
+        {
+            "id": 40,
+            "title": "Posição do Manete de Freio",
+            "text": "Dica exclusiva: Ajuste o manete de freio para que a frenagem comece com os dedos ainda levemente curvados, garantindo mais força e controle.",
+            "category": "Ergonomia"
+        },
+        {
+            "id": 41,
+            "title": "Sinalização com o Braço",
+            "text": "Dica exclusiva: Em situações de sol forte onde a luz de freio pode ficar pouco visível, use sinais de mão para alertar quem vem atrás sobre paradas.",
+            "category": "Segurança"
+        },
+        {
+            "id": 42,
+            "title": "Amortecedor Traseiro",
+            "text": "Dica exclusiva: Ajuste a pré-carga da mola quando levar garupa ou carga pesada para evitar que a frente da moto fique muito leve e instável.",
+            "category": "Manutenção"
+        },
+        {
+            "id": 43,
+            "title": "Foco no Asfalto",
+            "text": "Dica exclusiva: Evite passar por cima de manchas de óleo ou poças de água coloridas (arco-íris), pois indicam combustível derramado e zero aderência.",
+            "category": "Segurança"
+        },
+        {
+            "id": 44,
+            "title": "Respiro do Tanque",
+            "text": "Dica exclusiva: Se a moto começar a 'engasgar' e morrer do nada, verifique se o respiro da tampa do tanque não está obstruído, criando vácuo.",
+            "category": "Manutenção"
+        },
+        {
+            "id": 45,
+            "title": "Pernas no Tanque",
+            "text": "Dica exclusiva: Manter as pernas firmes contra o tanque ajuda a reduzir a vibração sentida no guidão e melhora o controle da moto em baixa velocidade.",
+            "category": "Pilotagem"
+        },
+        {
+            "id": 46,
+            "title": "Cabo de Embreagem",
+            "text": "Dica exclusiva: Carregue um cabo de embreagem reserva ou um kit de reparo rápido em viagens longas; é um item pequeno que salva seu passeio.",
+            "category": "Equipamento"
+        },
+        {
+            "id": 47,
+            "title": "Distância de Seguimento",
+            "text": "Dica exclusiva: Mantenha uma distância de pelo menos 2 segundos do veículo à frente. Em caso de chuva, dobre essa distância imediatamente.",
+            "category": "Segurança"
+        },
+        {
+            "id": 48,
+            "title": "Vela de Ignição",
+            "text": "Dica exclusiva: A cor da ponta da vela diz muito sobre o motor. Se estiver muito branca, a mistura está pobre; se estiver preta, está rica demais.",
+            "category": "Manutenção"
+        },
+        {
+            "id": 49,
+            "title": "Aquecimento de Pneus",
+            "text": "Dica exclusiva: Zigue-zague não aquece pneu de forma eficiente. O que realmente aquece a borracha é a deformação por aceleração e frenagem controlada.",
+            "category": "Pilotagem"
+        },
+        {
+            "id": 50,
+            "title": "Uso do Intercomunicador",
+            "text": "Dica exclusiva: Configure o volume do intercomunicador antes de sair. Ruídos excessivos dentro do capacete causam distração e fadiga auditiva.",
+            "category": "Equipamento"
+        },
+        {
+            "id": 51,
+            "title": "Entrada de Curva",
+            "text": "Dica exclusiva: Reduza todas as marchas necessárias e termine a frenagem antes de começar a inclinar a moto para a curva.",
+            "category": "Pilotagem"
+        },
+        {
+            "id": 52,
+            "title": "Oxidação de Contatos",
+            "text": "Dica exclusiva: Aplique limpa-contatos nos comandos do punho e nos terminais da bateria após lavagens pesadas para evitar falhas elétricas.",
+            "category": "Manutenção"
+        },
+        {
+            "id": 53,
+            "title": "Mãos Relaxadas",
+            "text": "Dica exclusiva: Se suas mãos 'formigam' durante a pilotagem, você está apertando o guidão com muita força. Relaxe os braços e use o tronco.",
+            "category": "Ergonomia"
+        },
+        {
+            "id": 54,
+            "title": "Ponto Morto (Neutro)",
+            "text": "Dica exclusiva: Se tiver dificuldade para achar o neutro com a moto parada, dê uma leve acelerada ou mova a moto alguns centímetros para frente.",
+            "category": "Pilotagem"
+        },
+        {
+            "id": 55,
+            "title": "Protetor de Coluna",
+            "text": "Dica exclusiva: Invista em um protetor de coluna independente (nível 2). As espumas que vêm nas jaquetas oferecem proteção mínima em impactos reais.",
+            "category": "Equipamento"
+        },
+        {
+            "id": 56,
+            "title": "Cavalete Lateral",
+            "text": "Dica exclusiva: Sempre verifique se o cavalete lateral está totalmente recolhido. Muitas motos antigas não possuem o sensor de corte de ignição.",
+            "category": "Segurança"
+        },
+        {
+            "id": 57,
+            "title": "Vidro de Retrovisor",
+            "text": "Dica exclusiva: Ajuste os espelhos para ver apenas uma pequena parte dos seus ombros; o foco deve ser a maior área possível da via atrás de você.",
+            "category": "Ergonomia"
+        },
+        {
+            "id": 58,
+            "title": "Discos de Freio",
+            "text": "Dica exclusiva: Nunca jogue água fria nos discos de freio logo após uma descida de serra ou uso intenso, pois o choque térmico pode empená-los.",
+            "category": "Manutenção"
+        },
+        {
+            "id": 59,
+            "title": "Saída de Garagem",
+            "text": "Dica exclusiva: Ao sair de garagens, pare totalmente antes da calçada. Pedestres e crianças muitas vezes não ouvem a aproximação da moto.",
+            "category": "Segurança"
+        },
+        {
+            "id": 60,
+            "title": "Equilíbrio em Baixa",
+            "text": "Dica exclusiva: Em congestionamentos, mantenha o corpo ereto e use o freio traseiro para estabilizar a moto sem precisar colocar os pés no chão.",
+            "category": "Pilotagem"
+        },
+        {
+            "id": 61,
+            "title": "Folga do Acelerador",
+            "text": "Dica exclusiva: Mantenha uma pequena folga no cabo do acelerador (2-3mm). Sem folga, a moto pode acelerar sozinha ao esterçar o guidão totalmente.",
+            "category": "Manutenção"
+        },
+        {
+            "id": 62,
+            "title": "Pilotagem no Corredor",
+            "text": "Dica exclusiva: No corredor, mantenha a velocidade compatível com o fluxo. O ideal é rodar no máximo 10km/h acima da velocidade dos carros.",
+            "category": "Segurança"
+        },
+        {
+            "id": 63,
+            "title": "Bota de Pilotagem",
+            "text": "Dica exclusiva: Use botas que cubram o tornozelo. Em quedas bobas, o peso da moto cai direto nessa articulação, podendo causar fraturas sérias.",
+            "category": "Equipamento"
+        },
+        {
+            "id": 64,
+            "title": "Câmbio e Reduções",
+            "text": "Dica exclusiva: Pratique o 'blip' (uma leve acelerada) ao reduzir marchas. Isso equaliza as rotações e evita trancos na roda traseira.",
+            "category": "Pilotagem"
+        },
+        {
+            "id": 65,
+            "title": "Filtro de Óleo",
+            "text": "Dica exclusiva: Sempre troque o filtro de óleo a cada troca de óleo. Deixar o filtro velho contamina o óleo novo instantaneamente.",
+            "category": "Manutenção"
+        },
+        {
+            "id": 66,
+            "title": "Luz de Painel",
+            "text": "Dica exclusiva: Se a luz da injeção acender, não entre em pânico. Muitas vezes é apenas combustível de má qualidade; abasteça em um posto de confiança.",
+            "category": "Manutenção"
+        },
+        {
+            "id": 67,
+            "title": "Postura nos Braços",
+            "text": "Dica exclusiva: Mantenha os cotovelos levemente flexionados e relaxados. Braços esticados transmitem todos os impactos para a sua coluna.",
+            "category": "Ergonomia"
+        },
+        {
+            "id": 68,
+            "title": "Visão Periférica",
+            "text": "Dica exclusiva: Treine sua visão periférica para notar movimentos nas rodas dos carros laterais; elas indicam que o carro vai mudar de faixa antes da seta.",
+            "category": "Segurança"
+        },
+        {
+            "id": 69,
+            "title": "Kit de Ferramentas",
+            "text": "Dica exclusiva: Conheça as ferramentas que vêm na sua moto. Pratique ajustes simples em casa para não ser pego de surpresa na estrada.",
+            "category": "Equipamento"
+        },
+        {
+            "id": 70,
+            "title": "Aquaplanagem",
+            "text": "Dica exclusiva: Se sentir a moto 'flutuar' na água, não freie. Mantenha o guidão reto e alivie o acelerador suavemente até recuperar o contato.",
+            "category": "Segurança"
+        },
+        {
+            "id": 71,
+            "title": "Graxa de Corrente",
+            "text": "Dica exclusiva: Evite usar graxa branca comum na corrente, pois ela acumula areia e vira uma pasta abrasiva que consome o kit relação rápido.",
+            "category": "Manutenção"
+        },
+        {
+            "id": 72,
+            "title": "Ultrapassagem Segura",
+            "text": "Dica exclusiva: Antes de ultrapassar, dê um lampejo de farol ou uma breve buzinada para garantir que o motorista à frente notou sua presença.",
+            "category": "Segurança"
+        },
+        {
+            "id": 73,
+            "title": "Assento Confortável",
+            "text": "Dica exclusiva: Para viagens longas, uma almofada de gel ou pele de carneiro sobre o banco original pode dobrar sua autonomia de tempo sobre a moto.",
+            "category": "Ergonomia"
+        },
+        {
+            "id": 74,
+            "title": "Limpeza de Discos",
+            "text": "Dica exclusiva: Após lavar a moto, use álcool isopropílico para limpar os discos de freio e remover resíduos de sabão ou cera que prejudicam a frenagem.",
+            "category": "Manutenção"
+        },
+        {
+            "id": 75,
+            "title": "Curvas Cegas",
+            "text": "Dica exclusiva: Em curvas sem visibilidade, posicione-se mais externamente na sua faixa para ampliar seu campo de visão o mais cedo possível.",
+            "category": "Pilotagem"
+        },
+        {
+            "id": 76,
+            "title": "Uso de Luvas",
+            "text": "Dica exclusiva: Nunca pilote sem luvas. Em qualquer queda, o instinto natural é apoiar as mãos no chão, e o asfalto age como uma lixa.",
+            "category": "Equipamento"
+        },
+        {
+            "id": 77,
+            "title": "Reserva de Combustível",
+            "text": "Dica exclusiva: Não se acostume a rodar sempre na reserva. A bomba de combustível usa o próprio líquido para se resfriar; nível baixo aumenta o desgaste.",
+            "category": "Manutenção"
+        },
+        {
+            "id": 78,
+            "title": "Parada em Semáforo",
+            "text": "Dica exclusiva: Ao parar no sinal, fique engatado em primeira marcha e observe o retrovisor até que pelo menos dois carros tenham parado atrás de você.",
+            "category": "Segurança"
+        },
+        {
+            "id": 79,
+            "title": "Ajuste de Corrente",
+            "text": "Dica exclusiva: Uma corrente frouxa demais pode pular da coroa e travar a roda traseira. Verifique a tensão a cada 500km rodados.",
+            "category": "Manutenção"
+        },
+        {
+            "id": 80,
+            "title": "Concentração Mental",
+            "text": "Dica exclusiva: Se estiver muito cansado ou estressado, pare por 15 minutos. A falta de foco na moto é tão perigosa quanto uma falha mecânica.",
+            "category": "Saúde"
+        },
+        {
+            "id": 81,
+            "title": "Suspensão Dianteira",
+            "text": "Dica exclusiva: Se notar marcas de óleo nas bengalas, os retentores estão vazando. Isso pode fazer o óleo cair direto no disco de freio, anulando a frenagem.",
+            "category": "Manutenção"
+        },
+        {
+            "id": 82,
+            "title": "Apoio da Garupa",
+            "text": "Dica exclusiva: O passageiro deve segurar na cintura do piloto ou nas alças laterais, nunca nos ombros ou braços, para não interferir na direção.",
+            "category": "Pilotagem"
+        },
+        {
+            "id": 83,
+            "title": "Líquido de Arrefecimento",
+            "text": "Dica exclusiva: Nunca use água de torneira no radiador. O cloro e os minerais causam corrosão interna. Use sempre aditivo específico com água desmineralizada.",
+            "category": "Manutenção"
+        },
+        {
+            "id": 84,
+            "title": "Posicionamento em Grupos",
+            "text": "Dica exclusiva: Em comboios, utilize a formação em 'Z' (ziguezague). Isso aumenta o campo de visão de todos e garante espaço de frenagem seguro.",
+            "category": "Segurança"
+        },
+        {
+            "id": 85,
+            "title": "Vento e Aerodinâmica",
+            "text": "Dica exclusiva: Se sua moto não tem bolha, incline o tronco levemente para frente em altas velocidades para reduzir a resistência do vento no peito.",
+            "category": "Pilotagem"
+        },
+        {
+            "id": 86,
+            "title": "Pneu 'Quadrado'",
+            "text": "Dica exclusiva: Rodar muito apenas em retas deixa o pneu traseiro plano no centro. Isso torna a entrada em curvas muito mais pesada e imprevisível.",
+            "category": "Manutenção"
+        },
+        {
+            "id": 87,
+            "title": "Distância Lateral",
+            "text": "Dica exclusiva: Ao passar por carros estacionados, mantenha distância de uma porta aberta. Alguém pode desembarcar sem olhar o retrovisor.",
+            "category": "Segurança"
+        },
+        {
+            "id": 88,
+            "title": "Lentes de Óculos",
+            "text": "Dica exclusiva: Se usa óculos de grau sob o capacete, escolha armações com hastes finas e retas para evitar pontos de pressão nas têmporas em viagens longas.",
+            "category": "Equipamento"
+        },
+        {
+            "id": 89,
+            "title": "Marcha Lenta",
+            "text": "Dica exclusiva: Se a moto apaga muito no semáforo, a marcha lenta pode estar baixa. O ajuste geralmente é um simples parafuso acessível na lateral do motor.",
+            "category": "Manutenção"
+        },
+        {
+            "id": 90,
+            "title": "Curva com Areia",
+            "text": "Dica exclusiva: Ao encontrar areia ou brita no meio da curva, tente levantar a moto o máximo possível (diminuir a inclinação) antes de passar pelo resíduo.",
+            "category": "Pilotagem"
+        },
+        {
+            "id": 91,
+            "title": "Lâmpada de Freio",
+            "text": "Dica exclusiva: Verifique se a luz de freio aciona tanto pelo manete quanto pelo pedal. Às vezes o sensor do pé desregula e para de avisar quem vem atrás.",
+            "category": "Segurança"
+        },
+        {
+            "id": 92,
+            "title": "Cabos Lubrificados",
+            "text": "Dica exclusiva: Use um lubrificante em spray nos cabos de acelerador e embreagem a cada 6 meses para evitar que fiquem duros ou arrebentem por atrito.",
+            "category": "Manutenção"
+        },
+        {
+            "id": 93,
+            "title": "Ponto de Equilíbrio",
+            "text": "Dica exclusiva: Pratique o 'ponto de fricção' da embreagem em uma subida leve. Dominar esse controle é a chave para não deixar a moto morrer em manobras.",
+            "category": "Pilotagem"
+        },
+        {
+            "id": 94,
+            "title": "Trava de Disco",
+            "text": "Dica exclusiva: Se usar trava de disco, utilize sempre o cabo 'lembrete' colorido preso ao guidão para evitar sair com a trava e quebrar o para-lama.",
+            "category": "Segurança"
+        },
+        {
+            "id": 95,
+            "title": "Protetor de Ouvido",
+            "text": "Dica exclusiva: Em rodovias, o barulho do vento no capacete pode causar perda auditiva a longo prazo. Use protetores auriculares de espuma.",
+            "category": "Equipamento"
+        },
+        {
+            "id": 96,
+            "title": "Troca de Pastilhas",
+            "text": "Dica exclusiva: Não espere ouvir o barulho de metal com metal. Se a espessura da pastilha estiver abaixo de 1.5mm, a eficiência térmica já está comprometida.",
+            "category": "Manutenção"
+        },
+        {
+            "id": 97,
+            "title": "Olhar de Longe",
+            "text": "Dica exclusiva: Não olhe para o pneu da frente. Mantenha o queixo erguido e olhe lá na frente; isso estabiliza sua trajetória automaticamente.",
+            "category": "Pilotagem"
+        },
+        {
+            "id": 98,
+            "title": "Peso na Traseira",
+            "text": "Dica exclusiva: Muita carga no baú traseiro desloca o centro de gravidade. Isso faz a frente da moto 'shimmar' (vibrar) em velocidades mais altas.",
+            "category": "Segurança"
+        },
+        {
+            "id": 99,
+            "title": "Cuidado com o Escapamento",
+            "text": "Dica exclusiva: Ao lavar a moto, evite jogar água diretamente dentro da boca do escapamento para não causar oxidação interna no abafador.",
+            "category": "Manutenção"
+        },
+        {
+            "id": 100,
+            "title": "Respirar na Pilotagem",
+            "text": "Dica exclusiva: Em situações de tensão, tendemos a prender a respiração. Force-se a respirar fundo; o oxigênio mantém seus reflexos rápidos.",
+            "category": "Saúde"
+        },
+        {
+            "id": 101,
+            "title": "Folga da Manete de Embreagem",
+            "text": "Dica exclusiva: A embreagem deve ter uma pequena folga no início do curso (cerca de 10 a 20mm). Se estiver esticada demais, os discos podem patinar e desgastar precocemente.",
+            "category": "Manutenção"
+        },
+        {
+            "id": 102,
+            "title": "Saída de Curva",
+            "text": "Dica exclusiva: Comece a levantar a moto gradualmente enquanto acelera na saída da curva. Isso maximiza a área de contato do pneu conforme a potência aumenta.",
+            "category": "Pilotagem"
+        },
+        {
+            "id": 103,
+            "title": "Baliza e Estacionamento",
+            "text": "Dica exclusiva: Sempre estacione a moto de ré em vagas inclinadas. Isso facilita muito a saída, pois empurrar uma moto pesada de ré na subida é perigoso e difícil.",
+            "category": "Segurança"
+        },
+        {
+            "id": 104,
+            "title": "Limpeza de Corrente O-Ring",
+            "text": "Dica exclusiva: Se sua corrente tiver retentores (O-rings), use apenas escovas de cerdas macias. Cerdas de aço podem rasgar os anéis de borracha e arruinar a peça.",
+            "category": "Manutenção"
+        },
+        {
+            "id": 105,
+            "title": "Uso do Farol Alto",
+            "text": "Dica exclusiva: Durante o dia, o uso do farol alto pode ajudar a ser visto em rodovias, mas em áreas urbanas pode ofuscar retrovisores e atrapalhar a percepção de distância alheia.",
+            "category": "Segurança"
+        },
+        {
+            "id": 106,
+            "title": "Joelhos no Tanque",
+            "text": "Dica exclusiva: Em frenagens de emergência, use os músculos das pernas para segurar seu corpo no tanque. Isso evita que seus pulsos travem e permite manobrar se necessário.",
+            "category": "Pilotagem"
+        },
+        {
+            "id": 107,
+            "title": "Troca de Pneu",
+            "text": "Dica exclusiva: Ao trocar pneus, substitua também a válvula (bico). Uma válvula velha pode ressecar e causar perda lenta de pressão, imperceptível à primeira vista.",
+            "category": "Manutenção"
+        },
+        {
+            "id": 108,
+            "title": "Jaquetas de Verão",
+            "text": "Dica exclusiva: Se você pilota no calor, use jaquetas com painéis de mesh (malha perfurada). Elas protegem contra abrasão mas permitem que o vento resfrie seu corpo.",
+            "category": "Equipamento"
+        },
+        {
+            "id": 109,
+            "title": "Tanque Cheio em Paradas",
+            "text": "Dica exclusiva: Se for deixar a moto parada por semanas, deixe o tanque cheio. Isso evita que o ar interno condense e forme água no fundo do combustível.",
+            "category": "Manutenção"
+        },
+        {
+            "id": 110,
+            "title": "Posicionamento em Semáforos",
+            "text": "Dica exclusiva: Nunca pare exatamente no centro da faixa em semáforos, onde se acumula óleo dos carros. Pare ligeiramente à esquerda ou direita para ter mais tração.",
+            "category": "Segurança"
+        },
+        {
+            "id": 111,
+            "title": "Ajuste de Câmbio",
+            "text": "Dica exclusiva: Se você usa botas de trilha ou cano alto, pode ser necessário subir um pouco a altura do pedal de câmbio para conseguir encaixar o pé com conforto.",
+            "category": "Ergonomia"
+        },
+        {
+            "id": 112,
+            "title": "Ponto Cego do Carro",
+            "text": "Dica exclusiva: A regra de ouro no corredor é: se você não vê os olhos do motorista pelo retrovisor dele, ele não sabe que você está lá.",
+            "category": "Segurança"
+        },
+        {
+            "id": 113,
+            "title": "Velas de Iridium",
+            "text": "Dica exclusiva: Velas de Iridium facilitam a partida a frio e oferecem uma queima mais eficiente, o que pode melhorar sutilmente a resposta do acelerador.",
+            "category": "Manutenção"
+        },
+        {
+            "id": 114,
+            "title": "Frenagem Combinada",
+            "text": "Dica exclusiva: Mesmo em motos com ABS ou CBS, pratique a frenagem usando 70% de força na frente e 30% atrás para obter a menor distância de parada possível.",
+            "category": "Pilotagem"
+        },
+        {
+            "id": 115,
+            "title": "Cuidado com Tapetes",
+            "text": "Dica exclusiva: Em garagens de condomínio, cuidado ao passar por cima de tapetes ou grades metálicas molhadas; o risco de a moto escorregar de lado é altíssimo.",
+            "category": "Segurança"
+        },
+        {
+            "id": 116,
+            "title": "Bateria e Zarcão",
+            "text": "Dica exclusiva: Uma leve camada de vaselina sólida nos polos da bateria evita a formação de 'zinabre' (aquela crosta verde) que impede a passagem da corrente.",
+            "category": "Manutenção"
+        },
+        {
+            "id": 117,
+            "title": "Uso da Viseira",
+            "text": "Dica exclusiva: Nunca pilote com a viseira aberta em velocidades acima de 40km/h. Um simples besouro pode causar uma lesão ocular grave ou te fazer perder o controle.",
+            "category": "Equipamento"
+        },
+        {
+            "id": 118,
+            "title": "Aperto de Rodas",
+            "text": "Dica exclusiva: Após trocar ou alinhar o pneu traseiro, confira o aperto do eixo após rodar os primeiros 50km. Vibrações iniciais podem 'assentar' os componentes.",
+            "category": "Manutenção"
+        },
+        {
+            "id": 119,
+            "title": "Inclinação da Moto",
+            "text": "Dica exclusiva: Em baixa velocidade, incline a moto para um lado e mova seu corpo para o lado oposto (contra-balanço). Isso facilita manobras em 'U' bem fechadas.",
+            "category": "Pilotagem"
+        },
+        {
+            "id": 120,
+            "title": "Postura de Descanso",
+            "text": "Dica exclusiva: Em semáforos longos, coloque a moto em neutro para descansar a mão da embreagem, mas mantenha o pé no freio traseiro para sinalizar sua posição.",
+            "category": "Pilotagem"
+        },
+        {
+            "id": 121,
+            "title": "Verificação de Raios",
+            "text": "Dica exclusiva: Em motos com rodas raiadas, bata levemente com uma chave de fenda nos raios. O som deve ser agudo; um som 'choco' indica raio frouxo.",
+            "category": "Manutenção"
+        },
+        {
+            "id": 122,
+            "title": "Aceleração Progressiva",
+            "text": "Dica exclusiva: Nunca 'enrole o cabo' de uma vez. Acelere de forma progressiva para permitir que a suspensão traseira se estabilize e mantenha a tração.",
+            "category": "Pilotagem"
+        },
+        {
+            "id": 123,
+            "title": "Entrada de Túnel",
+            "text": "Dica exclusiva: Ao entrar em túneis em dias ensolarados, feche um dos olhos segundos antes para que ele se adapte mais rápido à escuridão.",
+            "category": "Segurança"
+        },
+        {
+            "id": 124,
+            "title": "Nível de Combustível",
+            "text": "Dica exclusiva: Não confie cegamente no marcador digital. Zere o hodômetro parcial (Trip) toda vez que abastecer para ter uma segunda métrica de segurança.",
+            "category": "Manutenção"
+        },
+        {
+            "id": 125,
+            "title": "Pilotagem Contra o Sol",
+            "text": "Dica exclusiva: Se o sol estiver muito baixo (amanhecer/entardecer) e atrás de você, lembre-se que os motoristas à sua frente podem estar cegos pela luz.",
+            "category": "Segurança"
+        },
+        {
+            "id": 126,
+            "title": "Capa de Chuva",
+            "text": "Dica exclusiva: Vista a capa de chuva antes de começar a chover. Se esperar a roupa molhar, a capa vai apenas 'cozinhar' a umidade contra seu corpo.",
+            "category": "Equipamento"
+        },
+        {
+            "id": 127,
+            "title": "Limpeza do Radiador",
+            "text": "Dica exclusiva: Use apenas jato de água de baixa pressão para limpar as colmeias do radiador. Jatos fortes (lavadoras) podem entortar as aletas de alumínio.",
+            "category": "Manutenção"
+        },
+        {
+            "id": 128,
+            "title": "Retorno do Acelerador",
+            "text": "Dica exclusiva: Teste o retorno do acelerador com o guidão virado para ambos os lados. Ele deve voltar à posição zero instantaneamente e sem esforço.",
+            "category": "Manutenção"
+        },
+        {
+            "id": 129,
+            "title": "Sinalização de Perigo",
+            "text": "Dica exclusiva: Viu um obstáculo na pista? Aponte com o pé ou a mão para avisar os motociclistas que vêm atrás de você no grupo.",
+            "category": "Segurança"
+        },
+        {
+            "id": 130,
+            "title": "Curvas de Raio Decrescente",
+            "text": "Dica exclusiva: Se a curva fechar mais do que o esperado, não freie bruscamente. Incline mais a moto e empurre o guidão (contra-esterço) com mais convicção.",
+            "category": "Pilotagem"
+        },
+        {
+            "id": 131,
+            "title": "Folga de Válvulas",
+            "text": "Dica exclusiva: Se o motor estiver com um barulho metálico tipo 'tic-tic' muito alto, pode ser hora de ajustar a folga de válvulas para evitar perda de rendimento.",
+            "category": "Manutenção"
+        },
+        {
+            "id": 132,
+            "title": "Uso de Protetor Solar",
+            "text": "Dica exclusiva: Mesmo de capacete, o sol queima a nuca e o nariz (pela viseira). Use protetor solar em viagens longas para evitar insolação e fadiga.",
+            "category": "Saúde"
+        },
+        {
+            "id": 133,
+            "title": "Troca de Marcha sem Embreagem",
+            "text": "Dica exclusiva: É possível subir marchas sem embreagem aliviando o acelerador no momento exato, mas faça isso apenas em rotações médias para não danificar o câmbio.",
+            "category": "Pilotagem"
+        },
+        {
+            "id": 134,
+            "title": "Estacionar no Barro",
+            "text": "Dica exclusiva: Se for estacionar em piso fofo (terra/grama), coloque uma latinha amassada ou pedaço de madeira sob o descanso lateral para a moto não tombar.",
+            "category": "Segurança"
+        },
+        {
+            "id": 135,
+            "title": "Filtro de Combustível",
+            "text": "Dica exclusiva: Se a moto falha em altas rotações, o filtro de combustível pode estar entupido por impurezas do fundo dos tanques de postos antigos.",
+            "category": "Manutenção"
+        },
+        {
+            "id": 136,
+            "title": "Ajuste de Farol",
+            "text": "Dica exclusiva: Com carga ou garupa, a traseira baixa e o farol sobe, ofuscando os outros. Aprenda a regular o foco do farol da sua moto manualmente.",
+            "category": "Manutenção"
+        },
+        {
+            "id": 137,
+            "title": "Tangência de Curva",
+            "text": "Dica exclusiva: Entre na curva pelo lado de fora, atinja o ápice por dentro e saia pelo lado de fora. Isso suaviza o ângulo e permite mais velocidade.",
+            "category": "Pilotagem"
+        },
+        {
+            "id": 138,
+            "title": "Odor de Gasolina",
+            "text": "Dica exclusiva: Sentiu cheiro de gasolina forte ao parar? Verifique imediatamente as mangueiras sob o tanque; vazamentos ali são riscos de incêndio iminente.",
+            "category": "Segurança"
+        },
+        {
+            "id": 139,
+            "title": "Cuidado com Animais",
+            "text": "Dica exclusiva: Ao ver um cachorro na pista, não tente chutá-lo. Reduza a velocidade e mude sua trajetória de forma suave para não desequilibrar.",
+            "category": "Segurança"
+        },
+        {
+            "id": 140,
+            "title": "Reaperto de Espelhos",
+            "text": "Dica exclusiva: Se o espelho vibra demais, verifique a contra-porca na base da haste. Um espelho que se move com o vento é um perigo no trânsito.",
+            "category": "Manutenção"
+        },
+        {
+            "id": 141,
+            "title": "Limpeza de Cabos de Vela",
+            "text": "Dica exclusiva: Cabos de vela sujos ou com zinabre podem causar fugas de corrente, fazendo a moto falhar em dias úmidos. Limpe-os com um pano seco e WD-40.",
+            "category": "Manutenção"
+        },
+        {
+            "id": 142,
+            "title": "Atenção a Pedestres",
+            "text": "Dica exclusiva: Ao notar um ônibus parado, reduza a velocidade e redobre a atenção; pedestres costumam atravessar pela frente do ônibus, onde você não os vê.",
+            "category": "Segurança"
+        },
+        {
+            "id": 143,
+            "title": "Drenagem do Filtro de Ar",
+            "text": "Dica exclusiva: Muitas caixas de filtro de ar possuem um pequeno tubo de dreno (respiro). Verifique se há acúmulo de óleo ou água e esvazie-o periodicamente.",
+            "category": "Manutenção"
+        },
+        {
+            "id": 144,
+            "title": "Pilotagem com Ventos Fortes",
+            "text": "Dica exclusiva: Se o vento estiver empurrando a moto de lado, incline-a levemente contra o vento e mantenha os braços relaxados para não transferir oscilação ao guidão.",
+            "category": "Pilotagem"
+        },
+        {
+            "id": 145,
+            "title": "Equilíbrio em Paradas",
+            "text": "Dica exclusiva: Ao parar totalmente, tente colocar primeiro o pé esquerdo no chão. Isso mantém o seu pé direito livre para acionar o freio traseiro se necessário.",
+            "category": "Pilotagem"
+        },
+        {
+            "id": 146,
+            "title": "Proteção para Botas",
+            "text": "Dica exclusiva: Se o seu pedal de câmbio estiver manchando o calçado, instale um protetor de borracha ou uma capa de silicone específica para pedais de moto.",
+            "category": "Equipamento"
+        },
+        {
+            "id": 147,
+            "title": "Folga na Roda Traseira",
+            "text": "Dica exclusiva: Com a moto no cavalete, balance a roda traseira lateralmente. Se houver folga, os rolamentos do cubo estão gastos e devem ser trocados imediatamente.",
+            "category": "Manutenção"
+        },
+        {
+            "id": 148,
+            "title": "Uso de Faixas Refletivas",
+            "text": "Dica exclusiva: Adicione adesivos refletivos nas laterais do capacete e nas rodas. Isso aumenta drasticamente sua visibilidade lateral em cruzamentos escuros.",
+            "category": "Segurança"
+        },
+        {
+            "id": 149,
+            "title": "Desvio de Buracos",
+            "text": "Dica exclusiva: Nunca freie bruscamente *dentro* do buraco. Tente frear antes e solte o freio no momento do impacto para que a suspensão trabalhe livremente.",
+            "category": "Pilotagem"
+        },
+        {
+            "id": 150,
+            "title": "Manutenção de Pinhão",
+            "text": "Dica exclusiva: O pinhão costuma desgastar mais rápido que a coroa. Verifique se os dentes estão 'deitados' ou pontiagudos; se sim, troque o kit relação completo.",
+            "category": "Manutenção"
+        },
+        {
+            "id": 151,
+            "title": "Posição dos Espelhos",
+            "text": "Dica exclusiva: Se você mudou de jaqueta para uma mais volumosa, reajuste seus retrovisores. O volume extra nos ombros pode estar bloqueando sua visão traseira.",
+            "category": "Ergonomia"
+        },
+        {
+            "id": 152,
+            "title": "Resfriamento do Motor",
+            "text": "Dica exclusiva: Se o motor superaquecer no trânsito parado, desligue-o, mas mantenha a ignição ligada para que a ventoinha continue resfriando o radiador.",
+            "category": "Manutenção"
+        },
+        {
+            "id": 153,
+            "title": "Sinalização de Emergência",
+            "text": "Dica exclusiva: Se a sua moto não tem pisca-alerta de fábrica, evite fazer adaptações baratas na fiação original para não comprometer o sistema elétrico.",
+            "category": "Segurança"
+        },
+        {
+            "id": 154,
+            "title": "Pilotagem Noturna",
+            "text": "Dica exclusiva: À noite, reduza a velocidade para que sua distância de frenagem seja sempre menor do que o alcance da luz do seu farol baixo.",
+            "category": "Segurança"
+        },
+        {
+            "id": 155,
+            "title": "Limpeza da Corrente",
+            "text": "Dica exclusiva: Após lavar a moto e secar a corrente, espere pelo menos 15 minutos antes de aplicar o lubrificante para que a água residual evapore totalmente.",
+            "category": "Manutenção"
+        },
+        {
+            "id": 156,
+            "title": "Ajuste de Suspensão",
+            "text": "Dica exclusiva: Se a frente da moto 'mergulha' muito em frenagens, considere trocar o óleo das bengalas por um de viscosidade ligeiramente maior (ex: trocar 10W por 15W).",
+            "category": "Manutenção"
+        },
+        {
+            "id": 157,
+            "title": "Distância de Parada",
+            "text": "Dica exclusiva: Ao parar atrás de um carro, deixe espaço suficiente para ver os pneus traseiros dele. Isso garante que você tenha espaço para desviar se necessário.",
+            "category": "Segurança"
+        },
+        {
+            "id": 158,
+            "title": "Troca de Fluido de Arrefecimento",
+            "text": "Dica exclusiva: Ao trocar o líquido do radiador, certifique-se de remover todo o ar do sistema (sangria). Bolhas de ar podem causar superaquecimento localizado.",
+            "category": "Manutenção"
+        },
+        {
+            "id": 159,
+            "title": "Equilíbrio com Carga",
+            "text": "Dica exclusiva: Quando levar mochilas, prefira prendê-las na moto (com rede ou elásticos) do que levá-las nas costas, para baixar o centro de gravidade.",
+            "category": "Pilotagem"
+        },
+        {
+            "id": 160,
+            "title": "Uso do Corta-Corrente",
+            "text": "Dica exclusiva: Use o botão de emergência (corta-corrente) apenas em emergências. Para desligar a moto no dia a dia, use sempre a chave para evitar desgaste elétrico.",
+            "category": "Manutenção"
+        },
+        {
+            "id": 161,
+            "title": "Verificação de Lâmpadas",
+            "text": "Dica exclusiva: Antes de sair, verifique as setas. Uma lâmpada queimada altera o ritmo do relé, fazendo a outra seta piscar muito rápido ou ficar acesa direto.",
+            "category": "Manutenção"
+        },
+        {
+            "id": 162,
+            "title": "Pedágios Sem Parar",
+            "text": "Dica exclusiva: Ao usar tags de pedágio, posicione-as na bolha ou no topo do farol. Nunca as guarde no bolso da jaqueta, pois o sinal pode falhar e a cancela não abrir.",
+            "category": "Segurança"
+        },
+        {
+            "id": 163,
+            "title": "Limpeza de Motor em Alumínio",
+            "text": "Dica exclusiva: Não use produtos ácidos (como o famoso 'limpa baú') em motores de alumínio polido; eles causam manchas brancas irreversíveis e corrosão.",
+            "category": "Manutenção"
+        },
+        {
+            "id": 164,
+            "title": "Saída de Semáforo em Subida",
+            "text": "Dica exclusiva: Use o freio traseiro para segurar a moto em subidas. Isso libera sua mão direita para controlar apenas o acelerador, garantindo uma saída suave.",
+            "category": "Pilotagem"
+        },
+        {
+            "id": 165,
+            "title": "Pneus de Uso Misto",
+            "text": "Dica exclusiva: Se você usa pneus trail/misto, lembre-se que eles vibram mais e têm menos área de contato no asfalto molhado do que pneus 100% street.",
+            "category": "Segurança"
+        },
+        {
+            "id": 166,
+            "title": "Viseira Embaçada",
+            "text": "Dica exclusiva: Em dias frios, use o 'Pinlock' (lente interna anti-embaçante). Se não tiver, abrir um milímetro da viseira já cria o fluxo de ar necessário.",
+            "category": "Equipamento"
+        },
+        {
+            "id": 167,
+            "title": "Cuidado com Bocas de Lobo",
+            "text": "Dica exclusiva: Evite passar sobre grelhas metálicas ou bocas de lobo. Elas podem estar soltas, com fendas largas ou extremamente escorregadias.",
+            "category": "Segurança"
+        },
+        {
+            "id": 168,
+            "title": "Ajuste de Pedal de Freio",
+            "text": "Dica exclusiva: O pedal de freio traseiro não deve ficar nem muito alto nem muito baixo. O ideal é que fique alinhado com a sola da bota em posição de repouso.",
+            "category": "Ergonomia"
+        },
+        {
+            "id": 169,
+            "title": "Oleo na Corrente (Chuva)",
+            "text": "Dica exclusiva: Após rodar sob chuva forte, a lubrificação da corrente é lavada. Seque-a e lubrifique novamente assim que chegar ao seu destino.",
+            "category": "Manutenção"
+        },
+        {
+            "id": 170,
+            "title": "Sinalização de Manobras",
+            "text": "Dica exclusiva: Sinalize sua intenção de virar pelo menos 30 metros antes. O motociclista é pequeno no trânsito e precisa de tempo para ser notado.",
+            "category": "Segurança"
+        },
+        {
+            "id": 171,
+            "title": "Assentamento de Pastilhas",
+            "text": "Dica exclusiva: Pastilhas novas levam cerca de 50km para assentar. Evite frenagens violentas nesse período para não 'vitrificar' o material de fricção.",
+            "category": "Manutenção"
+        },
+        {
+            "id": 172,
+            "title": "Pilotagem em Paralelepípedos",
+            "text": "Dica exclusiva: Em pisos irregulares, alivie o peso do corpo sobre o banco, apoiando mais nas pedaleiras. Isso permite que a moto oscile sob você com mais estabilidade.",
+            "category": "Pilotagem"
+        },
+        {
+            "id": 173,
+            "title": "Cabo de Acelerador Travado",
+            "text": "Dica exclusiva: Se o acelerador travar aberto, não entre em pânico. Use o botão corta-corrente ou aperte a embreagem e desligue a chave imediatamente.",
+            "category": "Segurança"
+        },
+        {
+            "id": 174,
+            "title": "Manutenção de Filtro de Ar (Espuma)",
+            "text": "Dica exclusiva: Se sua moto usa filtro de espuma, após lavá-lo, aplique um óleo específico (Air Filter Oil). Ele é o responsável por reter as micropartículas de poeira.",
+            "category": "Manutenção"
+        },
+        {
+            "id": 175,
+            "title": "Ajuste da Roupa de Chuva",
+            "text": "Dica exclusiva: Use elásticos ou polainas sobre as botas para evitar que o vento suba pela calça da capa de chuva, molhando suas pernas por baixo.",
+            "category": "Equipamento"
+        },
+        {
+            "id": 176,
+            "title": "Estabilidade da Frente",
+            "text": "Dica exclusiva: Se sentir a frente da moto 'boba' em alta velocidade, verifique o aperto da caixa de direção. Folgas ali podem causar oscilações perigosas.",
+            "category": "Manutenção"
+        },
+        {
+            "id": 177,
+            "title": "Posição de Frenagem (Garupa)",
+            "text": "Dica exclusiva: Com garupa, você deve usar muito mais o freio traseiro do que o habitual, pois o peso extra sobre a roda traseira aumenta a eficiência da frenagem.",
+            "category": "Pilotagem"
+        },
+        {
+            "id": 178,
+            "title": "Óleo de Motor (Viscosidade)",
+            "text": "Dica exclusiva: Nunca use óleo de carro em motos. Óleos de carro possuem modificadores de atrito que podem fazer a embreagem da moto patinar.",
+            "category": "Manutenção"
+        },
+        {
+            "id": 179,
+            "title": "Troca de Luvas",
+            "text": "Dica exclusiva: Luvas de couro que ficaram molhadas devem secar à sombra. Secar ao sol ou com secador faz o couro endurecer e rachar.",
+            "category": "Equipamento"
+        },
+        {
+            "id": 180,
+            "title": "Curvas em Estrada de Terra",
+            "text": "Dica exclusiva: Diferente do asfalto, na terra você deve inclinar a moto para dentro da curva e manter seu corpo mais ereto ou inclinado para o lado de fora.",
+            "category": "Pilotagem"
+        },
+        {
+            "id": 181,
+            "title": "Verificação de Folga de Válvulas",
+            "text": "Dica exclusiva: Válvulas presas não fazem barulho, mas impedem o fechamento completo, causando superaquecimento e perda de compressão. Siga o manual.",
+            "category": "Manutenção"
+        },
+        {
+            "id": 182,
+            "title": "Atenção a Faixas de Pedestres",
+            "text": "Dica exclusiva: Evite parar ou acelerar forte sobre a pintura das faixas. Além de escorregadias, elas costumam acumular água empoçada nas irregularidades.",
+            "category": "Segurança"
+        },
+        {
+            "id": 183,
+            "title": "Limpeza de Corrente com Diesel",
+            "text": "Dica exclusiva: O óleo diesel é aceitável para limpar correntes, mas deve ser removido totalmente com água e sabão antes da nova lubrificação.",
+            "category": "Manutenção"
+        },
+        {
+            "id": 184,
+            "title": "Uso do Freio em Emergência",
+            "text": "Dica exclusiva: Em uma emergência, não 'soque' o freio dianteiro. Aplique pressão progressiva e rápida para dar tempo da suspensão carregar o pneu.",
+            "category": "Pilotagem"
+        },
+        {
+            "id": 185,
+            "title": "Protetor de Radiador",
+            "text": "Dica exclusiva: Em estradas, uma simples pedra lançada por um caminhão pode furar o radiador. Instale uma grade de proteção para evitar o prejuízo.",
+            "category": "Equipamento"
+        },
+        {
+            "id": 186,
+            "title": "Pressão de Pneus (Garupa)",
+            "text": "Dica exclusiva: Ao levar passageiro, a calibragem do pneu traseiro deve ser maior (consulte o manual). Rodar murcho com carga deforma a carcaça.",
+            "category": "Manutenção"
+        },
+        {
+            "id": 187,
+            "title": "Cuidado com Poças de Água",
+            "text": "Dica exclusiva: Nunca atravesse uma poça se não puder ver o fundo. Ela pode esconder um buraco profundo o suficiente para causar uma queda feia.",
+            "category": "Segurança"
+        },
+        {
+            "id": 188,
+            "title": "Ergonomia: Guidão Muito Baixo",
+            "text": "Dica exclusiva: Se você sente dores constantes na base do polegar, seu guidão pode estar muito baixo ou inclinado para trás. Teste novos ângulos.",
+            "category": "Ergonomia"
+        },
+        {
+            "id": 189,
+            "title": "Manutenção de Escovas do Motor",
+            "text": "Dica exclusiva: Se o motor de partida faz um 'clack' mas não vira, as escovas podem estar gastas. Um leve toque na carcaça do motor de arranque pode ajudar no sufoco.",
+            "category": "Manutenção"
+        },
+        {
+            "id": 190,
+            "title": "Pilotagem: Saída de Curva",
+            "text": "Dica exclusiva: Mire o olhar para o ponto mais distante possível da saída da curva. Onde seus olhos focam, sua mão ajusta o acelerador naturalmente.",
+            "category": "Pilotagem"
+        },
+        {
+            "id": 191,
+            "title": "Pneu com Bolha",
+            "text": "Dica exclusiva: Notou uma pequena deformação ou bolha na lateral do pneu? Substitua-o imediatamente. O risco de estouro em alta velocidade é crítico.",
+            "category": "Segurança"
+        },
+        {
+            "id": 192,
+            "title": "Ajuste de Manete de Freio",
+            "text": "Dica exclusiva: Ajuste o manete de forma que, ao ser acionado, ele não encoste nos seus dedos que ficaram no guidão. Isso garante o curso total de frenagem.",
+            "category": "Ergonomia"
+        },
+        {
+            "id": 193,
+            "title": "Limpeza de Disco de Freio",
+            "text": "Dica exclusiva: Se sentir o freio 'borrachudo' mesmo com pastilhas novas, limpe os discos com spray limpa-freios para remover gordura e poeira metálica.",
+            "category": "Manutenção"
+        },
+        {
+            "id": 194,
+            "title": "Vento e Caminhões",
+            "text": "Dica exclusiva: Ao cruzar com um caminhão em sentido oposto em pista simples, prepare-se para o deslocamento de ar que vai 'empurrar' sua moto.",
+            "category": "Segurança"
+        },
+        {
+            "id": 195,
+            "title": "Uso de Mochilas",
+            "text": "Dica exclusiva: Nunca carregue objetos rígidos ou pontiagudos dentro da mochila nas costas. Em uma queda, eles podem causar lesões graves na coluna.",
+            "category": "Equipamento"
+        },
+        {
+            "id": 196,
+            "title": "Folga de Buchas da Balança",
+            "text": "Dica exclusiva: Se a traseira da moto parece 'rebolar' em curvas, verifique as buchas da balança. Se estiverem gastas, a estabilidade fica comprometida.",
+            "category": "Manutenção"
+        },
+        {
+            "id": 197,
+            "title": "Postura: Queixo Erguido",
+            "text": "Dica exclusiva: Manter o queixo erguido amplia seu campo visual e reduz a tensão nos músculos do trapézio durante a pilotagem urbana.",
+            "category": "Pilotagem"
+        },
+        {
+            "id": 198,
+            "title": "Sinalização com Luz Alta",
+            "text": "Dica exclusiva: Use o lampejo de farol apenas para ser visto, não para 'exigir' passagem. O excesso pode irritar motoristas e causar conflitos.",
+            "category": "Segurança"
+        },
+        {
+            "id": 199,
+            "title": "Cuidado com Oleo de Suspensão",
+            "text": "Dica exclusiva: O óleo da suspensão dianteira deve ser trocado a cada 2 anos. Óleo velho vira uma 'lama' que impede o funcionamento correto das válvulas.",
+            "category": "Manutenção"
+        },
+        {
+            "id": 200,
+            "title": "Descanso Mental",
+            "text": "Dica exclusiva: Se você começou a cometer erros bobos (como errar marchas), é sinal de cansaço mental. Pare por 10 minutos e hidrate-se.",
+            "category": "Saúde"
+        },
+        {
+            "id": 201,
+            "title": "Aperto de Terminais",
+            "text": "Dica exclusiva: Vibrações podem soltar os parafusos dos polos da bateria, fazendo a moto apagar do nada. Verifique o aperto a cada revisão.",
+            "category": "Manutenção"
+        },
+        {
+            "id": 202,
+            "title": "Posicionamento em Ladeiras",
+            "text": "Dica exclusiva: Ao parar em um declive, vire o guidão para o lado oposto ao descanso lateral para aumentar a estabilidade e evitar tombos.",
+            "category": "Segurança"
+        },
+        {
+            "id": 103,
+            "title": "Limpeza de Viseira (Interna)",
+            "text": "Dica exclusiva: Nunca use álcool no lado interno da viseira; muitos capacetes possuem película anti-embaçante que é destruída pelo produto.",
+            "category": "Equipamento"
+        },
+        {
+            "id": 204,
+            "title": "Redução de Marcha em Curvas",
+            "text": "Dica exclusiva: Evite reduzir marchas bruscamente com a moto muito inclinada. O tranco do motor pode fazer a roda traseira deslizar lateralmente.",
+            "category": "Pilotagem"
+        },
+        {
+            "id": 205,
+            "title": "Pneus e Clima Frio",
+            "text": "Dica exclusiva: Em dias muito frios, os pneus demoram o dobro do tempo para atingir a temperatura ideal de aderência. Vá com calma nos primeiros quilômetros.",
+            "category": "Segurança"
+        },
+        {
+            "id": 206,
+            "title": "Cuidado com Pedriscos",
+            "text": "Dica exclusiva: Em trechos de obras, mantenha distância extra dos veículos à frente para evitar que pedras sejam arremessadas contra seu farol ou radiador.",
+            "category": "Segurança"
+        },
+        {
+            "id": 207,
+            "title": "Lubrificação de Eixos",
+            "text": "Dica exclusiva: Sempre que remover as rodas, peça para limpar e lubrificar os eixos com graxa náutica. Isso evita que o metal oxide e trave no futuro.",
+            "category": "Manutenção"
+        },
+        {
+            "id": 208,
+            "title": "Ergonomia: Altura do Câmbio",
+            "text": "Dica exclusiva: Se você sente dificuldade para subir marchas, tente baixar um dente na estria do pedal de câmbio para reduzir o esforço do tornozelo.",
+            "category": "Ergonomia"
+        },
+        {
+            "id": 209,
+            "title": "Pilotagem com Chuva Forte",
+            "text": "Dica exclusiva: Se a visibilidade estiver nula, não pare no acostamento. Procure um posto ou local seguro fora da rodovia para evitar colisões traseiras.",
+            "category": "Segurança"
+        },
+        {
+            "id": 210,
+            "title": "Manutenção de Filtro de Óleo",
+            "text": "Dica exclusiva: Ao instalar um filtro de óleo novo, passe uma gota de óleo limpo na junta de borracha para garantir a vedação e facilitar a remoção futura.",
+            "category": "Manutenção"
+        },
+        {
+            "id": 211,
+            "title": "Frenagem: Superfícies Metálicas",
+            "text": "Dica exclusiva: Ao cruzar pontes com piso de metal ou madeira, evite qualquer acionamento brusco de freios. A aderência nessas superfícies é quase nula.",
+            "category": "Pilotagem"
+        },
+        {
+            "id": 212,
+            "title": "Uso do Estrangulador (Choke)",
+            "text": "Dica exclusiva: Em motos carburadas, não pilote com o afogador puxado por muito tempo. Isso 'encharca' as velas e aumenta o consumo drasticamente.",
+            "category": "Manutenção"
+        },
+        {
+            "id": 213,
+            "title": "Proteção de Calcanhar",
+            "text": "Dica exclusiva: Certifique-se de que suas botas não possuem fivelas soltas que possam enroscar nas pedaleiras ou no protetor de corrente ao descer da moto.",
+            "category": "Equipamento"
+        },
+        {
+            "id": 214,
+            "title": "Ajuste de Corrente (Carga)",
+            "text": "Dica exclusiva: Se for viajar com muito peso, a corrente deve ficar um pouco mais folgada do que o normal, pois a suspensão comprimida estica o conjunto.",
+            "category": "Manutenção"
+        },
+        {
+            "id": 215,
+            "title": "Posicionamento em Túneis",
+            "text": "Dica exclusiva: Dentro de túneis, evite ficar próximo às paredes laterais. O acúmulo de sujeira e fuligem torna as bordas da pista muito escorregadias.",
+            "category": "Segurança"
+        },
+        {
+            "id": 216,
+            "title": "Frenagem com ABS",
+            "text": "Dica exclusiva: Em motos com ABS, se precisar parar rápido, aplique força total. Não alivie o freio quando sentir o pedal ou manete pulsar; é o sistema agindo.",
+            "category": "Pilotagem"
+        },
+        {
+            "id": 217,
+            "title": "Limpeza de Cabos Elétricos",
+            "text": "Dica exclusiva: Use capas protetoras (conduítes) nos fios que passam perto do motor para evitar que o calor derreta o isolamento e cause curto-circuito.",
+            "category": "Manutenção"
+        },
+        {
+            "id": 218,
+            "title": "Equilíbrio: Peso nas Pedaleiras",
+            "text": "Dica exclusiva: Para maior controle em curvas rápidas, aplique pressão na pedaleira do lado de fora da curva. Isso ajuda a estabilizar o chassi.",
+            "category": "Pilotagem"
+        },
+        {
+            "id": 219,
+            "title": "Cuidado com Folhas Secas",
+            "text": "Dica exclusiva: No outono ou após ventanias, cuidado com folhas secas na pista. Elas escondem buracos e podem ser tão escorregadias quanto óleo.",
+            "category": "Segurança"
+        },
+        {
+            "id": 220,
+            "title": "Manutenção: Suspensão Traseira",
+            "text": "Dica exclusiva: Lubrifique os rolamentos do 'link' da suspensão traseira anualmente. Se eles travarem, a suspensão fica dura e a moto perde estabilidade.",
+            "category": "Manutenção"
+        },
+        {
+            "id": 221,
+            "title": "Limpeza de Coroa e Pinhão",
+            "text": "Dica exclusiva: Ao limpar a relação, use uma escova de dentes velha para remover o acúmulo de graxa sólida que fica escondido atrás da tampa do pinhão.",
+            "category": "Manutenção"
+        },
+        {
+            "id": 222,
+            "title": "Atenção a Caminhões de Lixo",
+            "text": "Dica exclusiva: Evite rodar logo atrás de caminhões de lixo. Eles costumam deixar cair chorume (líquido gorduroso) que torna a pista extremamente lisa.",
+            "category": "Segurança"
+        },
+        {
+            "id": 223,
+            "title": "Uso de Protetor de Motor",
+            "text": "Dica exclusiva: Instale protetores de motor (slidgers ou 'mata-cachorro'). Eles salvam as tampas laterais do motor e o radiador em quedas bobas de estacionamento.",
+            "category": "Equipamento"
+        },
+        {
+            "id": 224,
+            "title": "Pilotagem: Curva em 'S'",
+            "text": "Dica exclusiva: Em sequências de curvas, sacrifique a velocidade de saída da primeira para garantir o melhor posicionamento de entrada na segunda.",
+            "category": "Pilotagem"
+        },
+        {
+            "id": 225,
+            "title": "Respiro do Capacete",
+            "text": "Dica exclusiva: Mantenha as entradas de ar do capacete limpas. Insetos mortos podem obstruir a ventilação, causando superaquecimento e embaçamento da viseira.",
+            "category": "Manutenção"
+        },
+        {
+            "id": 226,
+            "title": "Cuidado com Faixas de Sinalização",
+            "text": "Dica exclusiva: As faixas termoplásticas (mais grossas e em relevo) podem fazer a moto 'vibrar' e perder tração se você inclinar sobre elas.",
+            "category": "Segurança"
+        },
+        {
+            "id": 227,
+            "title": "Folga do Pedal de Câmbio",
+            "text": "Dica exclusiva: Verifique se o pedal de câmbio não está encostando no protetor de cárter ou chassi ao ser acionado, o que pode impedir o engate total da marcha.",
+            "category": "Manutenção"
+        },
+        {
+            "id": 228,
+            "title": "Ergonomia: Mãos no Guidão",
+            "text": "Dica exclusiva: Segure as manoplas como se segurasse um ovo: com firmeza para não cair, mas sem apertar para não quebrar. Isso evita dores nos antebraços.",
+            "category": "Ergonomia"
+        },
+        {
+            "id": 229,
+            "title": "Abastecimento Correto",
+            "text": "Dica exclusiva: Nunca encha o tanque até o limite da tampa. Deixe um espaço de ar para a expansão do combustível, evitando vazamentos pelo respiro.",
+            "category": "Manutenção"
+        },
+        {
+            "id": 230,
+            "title": "Pilotagem: Frenagem em Descida",
+            "text": "Dica exclusiva: Em descidas acentuadas, desloque o seu peso para trás. Isso compensa a transferência de massa e evita que a roda traseira perca contato.",
+            "category": "Pilotagem"
+        },
+        {
+            "id": 231,
+            "title": "Verificação de Lâmpadas LED",
+            "text": "Dica exclusiva: Se sua moto usa lâmpadas LED adaptadas, verifique se a ventoinha de resfriamento (se houver) está funcionando para não queimar o refletor.",
+            "category": "Manutenção"
+        },
+        {
+            "id": 232,
+            "title": "Sinalização de Pista",
+            "text": "Dica exclusiva: Ao avistar um radar ou fiscalização, use o sinal de mão (palma para baixo movendo verticalmente) para avisar os motociclistas opostos.",
+            "category": "Segurança"
+        },
+        {
+            "id": 233,
+            "title": "Uso de Joelheiras",
+            "text": "Dica exclusiva: Se usar joelheiras por fora da calça, certifique-se de que as tiras não estão soltas, pois podem enroscar nas partes móveis da moto.",
+            "category": "Equipamento"
+        },
+        {
+            "id": 234,
+            "title": "Manutenção: Óleo de Bengala",
+            "text": "Dica exclusiva: Se notar que um lado da suspensão dianteira está mais úmido que o outro, a moto pode 'puxar' para um lado nas frenagens fortes.",
+            "category": "Manutenção"
+        },
+        {
+            "id": 235,
+            "title": "Posicionamento em Vias Rápidas",
+            "text": "Dica exclusiva: Evite trafegar entre dois veículos grandes (ex: dois caminhões). Se um deles precisar desviar, você ficará sem rota de fuga.",
+            "category": "Segurança"
+        },
+        {
+            "id": 236,
+            "title": "Pilotagem: Controle de Tração",
+            "text": "Dica exclusiva: Em motos com controle de tração, aprenda como desativá-lo para situações específicas, como tentar sair de um atoleiro de lama ou areia.",
+            "category": "Pilotagem"
+        },
+        {
+            "id": 237,
+            "title": "Cuidado com Cabos de Aço",
+            "text": "Dica exclusiva: Em propriedades rurais ou condomínios em obra, cuidado com cabos de aço ou correntes esticadas que podem estar invisíveis ao sol.",
+            "category": "Segurança"
+        },
+        {
+            "id": 238,
+            "title": "Limpeza de Assento",
+            "text": "Dica exclusiva: Nunca passe silicone ou lustra-móveis no banco da moto. Isso o torna extremamente escorregadio, prejudicando sua estabilidade.",
+            "category": "Manutenção"
+        },
+        {
+            "id": 239,
+            "title": "Troca de Fluido de Embreagem",
+            "text": "Dica exclusiva: Em motos com embreagem hidráulica, o fluido deve ser trocado com a mesma frequência do fluido de freio para evitar o endurecimento do acionamento.",
+            "category": "Manutenção"
+        },
+        {
+            "id": 240,
+            "title": "Saúde: Postura dos Ombros",
+            "text": "Dica exclusiva: Periodicamente, force seus ombros para baixo e para trás durante a pilotagem. Isso libera a tensão acumulada na cervical.",
+            "category": "Saúde"
+        },
+        {
+            "id": 241,
+            "title": "Ajuste de Corrente em Viagens",
+            "text": "Dica exclusiva: Durante viagens longas, verifique a tensão da corrente todas as manhãs. O calor e o esforço contínuo aceleram o alongamento dos elos.",
+            "category": "Manutenção"
+        },
+        {
+            "id": 242,
+            "title": "Cuidado com Faixas de Óleo",
+            "text": "Dica exclusiva: Em pedágios, evite passar exatamente pelo centro da cabine. É onde os caminhões param e deixam cair a maior quantidade de óleo e graxa.",
+            "category": "Segurança"
+        },
+        {
+            "id": 243,
+            "title": "Limpeza de Contatos Elétricos",
+            "text": "Dica exclusiva: Se o botão de partida ou a seta falharem intermitentemente, aplique limpa-contatos seco. Nunca use WD-40 dentro dos comandos, pois ele atrai poeira.",
+            "category": "Manutenção"
+        },
+        {
+            "id": 244,
+            "title": "Pilotagem: Curva em Descida",
+            "text": "Dica exclusiva: Em descidas, mantenha o motor em uma marcha menor. A compressão ajuda a segurar a moto, evitando que você sobrecarregue os freios.",
+            "category": "Pilotagem"
+        },
+        {
+            "id": 245,
+            "title": "Equipamento: Ajuste do Capacete",
+            "text": "Dica exclusiva: A cinta jugular deve estar justa o suficiente para passar apenas um dedo entre ela e seu pescoço. Solta demais, o capacete sai em um impacto.",
+            "category": "Equipamento"
+        },
+        {
+            "id": 246,
+            "title": "Manutenção: Nível de Eletrólito",
+            "text": "Dica exclusiva: Se sua bateria não for selada, verifique o nível da água. Use apenas água destilada para completar, nunca solução de ácido.",
+            "category": "Manutenção"
+        },
+        {
+            "id": 247,
+            "title": "Segurança: Desvio de Obstáculo",
+            "text": "Dica exclusiva: Se um objeto aparecer de repente, não olhe para ele. Olhe para o espaço vazio ao lado; sua mão seguirá seu olhar para realizar o desvio.",
+            "category": "Segurança"
+        },
+        {
+            "id": 248,
+            "title": "Ergonomia: Braços e Guidão",
+            "text": "Dica exclusiva: Se você sente dor nas costas, verifique se o guidão não está longe demais. Riser (alongadores) podem trazer o controle para mais perto e corrigir a postura.",
+            "category": "Ergonomia"
+        },
+        {
+            "id": 249,
+            "title": "Pilotagem: Frenagem em Piso Molhado",
+            "text": "Dica exclusiva: Na chuva, antecipe sua frenagem. O tempo de resposta das pastilhas úmidas é maior e a distância de parada pode dobrar.",
+            "category": "Pilotagem"
+        },
+        {
+            "id": 250,
+            "title": "Manutenção: Buchas de Amortecedor",
+            "text": "Dica exclusiva: Verifique as buchas de borracha onde o amortecedor traseiro é fixado. Se estiverem ressecadas, a moto perderá precisão em inclinações.",
+            "category": "Manutenção"
+        },
+        {
+            "id": 251,
+            "title": "Segurança: Luz de Freio Noturna",
+            "text": "Dica exclusiva: Ao parar em sinais escuros, dê toques leves no freio para fazer a luz piscar. Isso atrai muito mais a atenção dos motoristas distraídos.",
+            "category": "Segurança"
+        },
+        {
+            "id": 252,
+            "title": "Manutenção: Cabo de Acelerador",
+            "text": "Dica exclusiva: Se o acelerador estiver pesado, lubrifique o cabo e a roldana dentro do punho. O atrito de plástico com metal causa cansaço na mão.",
+            "category": "Manutenção"
+        },
+        {
+            "id": 253,
+            "title": "Equipamento: Botas e Pedais",
+            "text": "Dica exclusiva: Evite pilotar com tênis de corrida ou solados muito largos. Eles podem enroscar no pedal de freio ou câmbio em momentos críticos.",
+            "category": "Equipamento"
+        },
+        {
+            "id": 254,
+            "title": "Pilotagem: Posição de Ataque",
+            "text": "Dica exclusiva: Ao atravessar trechos de terra ou asfalto muito ruim, fique levemente em pé nas pedaleiras para usar suas pernas como amortecedores extras.",
+            "category": "Pilotagem"
+        },
+        {
+            "id": 255,
+            "title": "Segurança: Farol de Milha",
+            "text": "Dica exclusiva: Faróis auxiliares devem ser instalados abaixo da linha do farol principal. Isso melhora a visibilidade do asfalto sem cegar quem vem no sentido oposto.",
+            "category": "Segurança"
+        },
+        {
+            "id": 256,
+            "title": "Manutenção: Troca de Fluido de Garfo",
+            "text": "Dica exclusiva: Se a frente da moto estiver 'pulando' demais, o óleo do garfo pode ter perdido a viscosidade. Troque-o para recuperar o amortecimento.",
+            "category": "Manutenção"
+        },
+        {
+            "id": 257,
+            "title": "Pilotagem: Olhar Periférico",
+            "text": "Dica exclusiva: Em cruzamentos, não foque apenas no semáforo. Use a visão periférica para monitorar veículos que parecem não estar reduzindo a velocidade.",
+            "category": "Segurança"
+        },
+        {
+            "id": 258,
+            "title": "Manutenção: Parafusos de Carenagem",
+            "text": "Dica exclusiva: Use arruelas de borracha nos parafusos das carenagens plásticas. Isso evita trincas causadas pela vibração do motor a longo prazo.",
+            "category": "Manutenção"
+        },
+        {
+            "id": 259,
+            "title": "Ergonomia: Tensão Facial",
+            "text": "Dica exclusiva: Relaxar a mandíbula durante a pilotagem reduz o estresse sistêmico. Se você percebe que está cerrando os dentes, respire fundo.",
+            "category": "Saúde"
+        },
+        {
+            "id": 260,
+            "title": "Segurança: Vácuo de Ônibus",
+            "text": "Dica exclusiva: Ao ultrapassar veículos muito altos, espere um 'tapa' lateral de vento ao sair da área de vácuo. Segure o guidão com firmeza, mas sem rigidez.",
+            "category": "Segurança"
+        },
+        {
+            "id": 261,
+            "title": "Verificação de Folga na Coroa",
+            "text": "Dica exclusiva: Tente puxar a corrente para trás no meio da coroa. Se você conseguir ver metade de um dente da coroa, o conjunto está no fim da vida útil.",
+            "category": "Manutenção"
+        },
+        {
+            "id": 262,
+            "title": "Pilotagem: Frenagem em Curva",
+            "text": "Dica exclusiva: Se precisar frear com a moto inclinada, use o freio traseiro suavemente. Isso ajuda a fechar a trajetória e estabilizar o chassi.",
+            "category": "Pilotagem"
+        },
+        {
+            "id": 263,
+            "title": "Cuidado com Faixas de Pedestres",
+            "text": "Dica exclusiva: Em dias de chuva, as faixas brancas pintadas tornam-se verdadeiros sabões. Evite mudar de faixa ou frear sobre elas.",
+            "category": "Segurança"
+        },
+        {
+            "id": 264,
+            "title": "Manutenção: Nível de Aditivo",
+            "text": "Dica exclusiva: Verifique o nível do líquido de arrefecimento pelo vaso de expansão. Se estiver baixando com frequência, há microvazamentos nas mangueiras.",
+            "category": "Manutenção"
+        },
+        {
+            "id": 265,
+            "title": "Posicionamento: Parada no Trânsito",
+            "text": "Dica exclusiva: Pare sempre alinhado com o corredor (entre os carros). Se o veículo de trás não parar, você terá uma rota de fuga livre à frente.",
+            "category": "Segurança"
+        },
+        {
+            "id": 266,
+            "title": "Limpeza de Corrente: Secagem",
+            "text": "Dica exclusiva: Após lavar a corrente, rode alguns metros com a moto para aquecê-la antes de lubrificar. O calor ajuda o lubrificante a aderir melhor.",
+            "category": "Manutenção"
+        },
+        {
+            "id": 267,
+            "title": "Ergonomia: Ajuste de Retrovisores",
+            "text": "Dica exclusiva: Ajuste os espelhos para que seus ombros ocupem apenas 10% da imagem. O objetivo é eliminar o máximo possível de pontos cegos laterais.",
+            "category": "Ergonomia"
+        },
+        {
+            "id": 268,
+            "title": "Pilotagem: Uso do Tanque",
+            "text": "Dica exclusiva: Em viagens longas, mude levemente sua posição no assento a cada 30 minutos para evitar pontos de pressão e melhorar a circulação nas pernas.",
+            "category": "Pilotagem"
+        },
+        {
+            "id": 269,
+            "title": "Segurança: Farol Alto à Noite",
+            "text": "Dica exclusiva: Ao ver que um veículo vem no sentido oposto, baixe o farol. O ofuscamento do outro motorista pode fazer com que ele invada a sua faixa.",
+            "category": "Segurança"
+        },
+        {
+            "id": 270,
+            "title": "Equipamento: Jaqueta Ventilada",
+            "text": "Dica exclusiva: Jaquetas de verão (mesh) protegem contra o asfalto, mas deixam o ar passar. Use uma camisa térmica por baixo para manter a temperatura estável.",
+            "category": "Equipamento"
+        },
+        {
+            "id": 271,
+            "title": "Manutenção: Filtro de Ar Seco",
+            "text": "Dica exclusiva: Se o seu filtro de ar for de papel, nunca use ar comprimido para limpá-lo; isso abre os poros do papel e deixa a sujeira entrar no motor.",
+            "category": "Manutenção"
+        },
+        {
+            "id": 272,
+            "title": "Pilotagem: Contra-esterço Sutil",
+            "text": "Dica exclusiva: Para desvios rápidos de buracos, use o contra-esterço. Um empurrão firme no guidão para o lado oposto faz a moto inclinar instantaneamente.",
+            "category": "Pilotagem"
+        },
+        {
+            "id": 273,
+            "title": "Segurança: Cruzamento Rural",
+            "text": "Dica exclusiva: Em estradas de terra que cruzam o asfalto, espere encontrar areia ou brita espalhada na pista. Reduza a velocidade antes de inclinar.",
+            "category": "Segurança"
+        },
+        {
+            "id": 274,
+            "title": "Manutenção: Sensor de Descanso",
+            "text": "Dica exclusiva: Mantenha o sensor do descanso lateral limpo. Sujeira acumulada ali pode fazer a moto apagar sozinha ao engatar a primeira marcha.",
+            "category": "Manutenção"
+        },
+        {
+            "id": 275,
+            "title": "Ergonomia: Posição dos Pés",
+            "text": "Dica exclusiva: Pilote com as pontas dos pés nas pedaleiras. Isso evita que você acione o freio ou câmbio por engano em irregularidades do asfalto.",
+            "category": "Ergonomia"
+        },
+        {
+            "id": 276,
+            "title": "Segurança: Luz de Painel Noturna",
+            "text": "Dica exclusiva: Se o seu painel tiver ajuste de brilho, reduza-o à noite. Luzes muito fortes no painel cansam a vista e prejudicam sua visão da estrada.",
+            "category": "Segurança"
+        },
+        {
+            "id": 277,
+            "title": "Manutenção: Raios da Roda",
+            "text": "Dica exclusiva: Raios frouxos causam oscilações (shimmy) na moto. Verifique se todos estão com a mesma tensão batendo neles com uma chave metálica.",
+            "category": "Manutenção"
+        },
+        {
+            "id": 278,
+            "title": "Pilotagem: Aquecimento de Pneus",
+            "text": "Dica exclusiva: O pneu traseiro aquece mais rápido que o dianteiro. Lembre-se disso ao fazer a primeira curva forte do dia; a frente ainda pode estar 'gelada'.",
+            "category": "Pilotagem"
+        },
+        {
+            "id": 279,
+            "title": "Equipamento: Luvas de Couro",
+            "text": "Dica exclusiva: Luvas novas de couro costumam ser rígidas. Use um hidratante de couro para acelerar o amaciamento e melhorar a sensibilidade nos dedos.",
+            "category": "Equipamento"
+        },
+        {
+            "id": 280,
+            "title": "Saúde: Proteção Ocular",
+            "text": "Dica exclusiva: Se o vento estiver entrando no capacete e ressecando seus olhos, você piscará mais devagar. Isso aumenta seu tempo de reação.",
+            "category": "Saúde"
+        },
+        {
+            "id": 281,
+            "title": "Manutenção: Reaperto de Plásticos",
+            "text": "Dica exclusiva: Motores monocilíndricos vibram muito. Verifique os parafusos das carenagens e do para-lama a cada 3.000km para evitar perdas ou ruídos irritantes.",
+            "category": "Manutenção"
+        },
+        {
+            "id": 282,
+            "title": "Segurança: Saída de Túneis",
+            "text": "Dica exclusiva: Ao sair de um túnel, prepare-se para rajadas de vento lateral que podem desestabilizar a moto devido à mudança brusca de pressão atmosférica.",
+            "category": "Segurança"
+        },
+        {
+            "id": 283,
+            "title": "Pilotagem: Curva com Garupa",
+            "text": "Dica exclusiva: Com passageiro, a moto demora mais para inclinar e para levantar. Antecipe suas manobras e seja muito mais suave no acelerador.",
+            "category": "Pilotagem"
+        },
+        {
+            "id": 284,
+            "title": "Manutenção: Terminal de Vela",
+            "text": "Dica exclusiva: O 'cachimbo' da vela pode oxidar internamente. Se a moto falha na chuva, retire-o, limpe o contato e aplique um spray hidrepelente.",
+            "category": "Manutenção"
+        },
+        {
+            "id": 285,
+            "title": "Equipamento: Proteção de Pescoço",
+            "text": "Dica exclusiva: Use uma bandana ou 'neck tube' mesmo no calor. Isso evita que detritos ou insetos batam diretamente na sua garganta em alta velocidade.",
+            "category": "Equipamento"
+        },
+        {
+            "id": 286,
+            "title": "Segurança: Ponto Cego de Coluna",
+            "text": "Dica exclusiva: Motoristas de carros modernos têm colunas 'A' muito largas que escondem uma moto inteira. Nunca assuma que você foi visto em cruzamentos.",
+            "category": "Segurança"
+        },
+        {
+            "id": 287,
+            "title": "Ergonomia: Joelhos no Tanque",
+            "text": "Dica exclusiva: Se você sente dor nos punhos, é porque não está segurando a moto com as pernas. Aperte o tanque com os joelhos para aliviar os braços.",
+            "category": "Ergonomia"
+        },
+        {
+            "id": 288,
+            "title": "Manutenção: Cabo de Embreagem",
+            "text": "Dica exclusiva: Se o cabo da embreagem começar a 'desfiar' no manete, troque-o imediatamente. Ele vai romper exatamente quando você mais precisar dele.",
+            "category": "Manutenção"
+        },
+        {
+            "id": 289,
+            "title": "Pilotagem: Frenagem de Trilho",
+            "text": "Dica exclusiva: Ao cruzar trilhos de trem, mantenha a moto reta. Se precisar inclinar, faça-o antes ou depois do metal, nunca sobre ele.",
+            "category": "Pilotagem"
+        },
+        {
+            "id": 290,
+            "title": "Segurança: Abastecimento Noturno",
+            "text": "Dica exclusiva: Evite abastecer em postos isolados e mal iluminados à noite. Dê preferência a postos com conveniência e movimento para sua segurança pessoal.",
+            "category": "Segurança"
+        },
+        {
+            "id": 291,
+            "title": "Manutenção: Filtro de Combustível",
+            "text": "Dica exclusiva: Troque o filtro de combustível preventivamente se você costuma usar gasolinas de postos diferentes em viagens longas.",
+            "category": "Manutenção"
+        },
+        {
+            "id": 292,
+            "title": "Equipamento: Limpeza de Jaqueta",
+            "text": "Dica exclusiva: Nunca lave jaquetas de proteção com amaciante; ele obstrui os poros das membranas respiráveis e reduz a resistência das fibras de cordura.",
+            "category": "Equipamento"
+        },
+        {
+            "id": 293,
+            "title": "Segurança: Distância de Retrovisor",
+            "text": "Dica exclusiva: No corredor, se o retrovisor do carro à esquerda estiver alinhado com o da direita, o espaço é seguro. Se estiverem desalinhados, cuidado.",
+            "category": "Segurança"
+        },
+        {
+            "id": 294,
+            "title": "Pilotagem: Ponto de Fricção",
+            "text": "Dica exclusiva: Conheça o ponto exato onde sua embreagem começa a atuar. Isso é vital para arrancadas rápidas e manobras de baixa velocidade no trânsito.",
+            "category": "Pilotagem"
+        },
+        {
+            "id": 295,
+            "title": "Manutenção: Pressão do Óleo",
+            "text": "Dica exclusiva: Se a luz de óleo demorar mais de 2 segundos para apagar após a partida, desligue o motor e verifique o nível e o filtro de óleo.",
+            "category": "Manutenção"
+        },
+        {
+            "id": 296,
+            "title": "Ergonomia: Altura do Guidão",
+            "text": "Dica exclusiva: Se o seu braço 'dorme', o guidão pode estar muito alto, dificultando a circulação sanguínea. Tente uma posição levemente mais baixa.",
+            "category": "Ergonomia"
+        },
+        {
+            "id": 297,
+            "title": "Segurança: Animais na Pista",
+            "text": "Dica exclusiva: Ao ver um animal, não buzine forte; ele pode se assustar e correr exatamente na direção da moto. Reduza e passe silenciosamente.",
+            "category": "Segurança"
+        },
+        {
+            "id": 298,
+            "title": "Manutenção: Rodas de Liga Leve",
+            "text": "Dica exclusiva: Verifique se há trincas ou amassados nas bordas das rodas após passar por buracos grandes. Rodas de liga podem perder pressão subitamente.",
+            "category": "Manutenção"
+        },
+        {
+            "id": 299,
+            "title": "Pilotagem: Foco na Saída",
+            "text": "Dica exclusiva: Em manobras de 'U', vire a cabeça totalmente para trás, olhando para onde quer ir. A moto seguirá seu equilíbrio corporal.",
+            "category": "Pilotagem"
+        },
+        {
+            "id": 300,
+            "title": "Saúde: Hidratação e Reflexo",
+            "text": "Dica exclusiva: Perder apenas 2% de água no corpo reduz sua capacidade de decisão em 20%. Em viagens, beba água a cada parada de combustível.",
+            "category": "Saúde"
+        }
+    ]
+}
